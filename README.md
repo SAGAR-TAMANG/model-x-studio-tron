@@ -4,9 +4,11 @@ An interactive holographic study of a Tesla Model X. Orbit a glowing wireframe
 projection, separate it into all 334 modeled pieces, inspect each system — and
 drive the whole thing with your hands through your webcam.
 
-> **Live demo:** _add your Vercel URL here_
+> **See it in action:** [Instagram reel](https://www.instagram.com/p/DdHacqZz412/)
 
-<!-- Add a GIF here: the fist-closing gesture assembling the car is the shot. -->
+[![Model X Studio — demo reel](docs/reel.png)](https://www.instagram.com/p/DdHacqZz412/)
+
+There is no hosted demo — clone it and run it yourself.
 
 ---
 
