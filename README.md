@@ -4,12 +4,6 @@ An interactive holographic study of a Tesla Model X. Orbit a glowing wireframe
 projection, separate it into all 334 modeled pieces, inspect each system — and
 drive the whole thing with your hands through your webcam.
 
-> **See it in action:** [Instagram reel](https://www.instagram.com/p/DdHacqZz412/)
-
-[![Model X Studio — demo reel](docs/reel.png)](https://www.instagram.com/p/DdHacqZz412/)
-
-There is no hosted demo — clone it and run it yourself.
-
 ---
 
 ## The build prompt
@@ -37,6 +31,16 @@ Everything else in this repository is reproducible from that document.
 
 The higgsfield setup behind the reference visuals this interface was designed
 against.
+
+---
+
+## Demo
+
+**→ [Instagram reel](https://www.instagram.com/p/DdHacqZz412/)**
+
+[![Model X Studio — demo reel](docs/reel.png)](https://www.instagram.com/p/DdHacqZz412/)
+
+There is no hosted demo — clone it and run it yourself.
 
 ---
 
