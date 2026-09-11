@@ -29,6 +29,15 @@ Everything else in this repository is reproducible from that document.
 
 ---
 
+## Setup
+
+**→ [higgsfield setup link](https://higgsfield.ai/s/gpt-6-astra-x-higgsfield-plugin-ig-vol-2-claude-creators-sagar_builds-zAPOsP)**
+
+The higgsfield setup behind the reference visuals this interface was designed
+against.
+
+---
+
 ## Credit
 
 Built on **[ashemag/model-x-studio](https://github.com/ashemag/model-x-studio)**.
